@@ -1,4 +1,4 @@
-## Oi! Eu sou o João👋
+## Oi! Eu sou o João 👋
 
 - 📚 Estudo Análise e Desenvolvimento de Sistemas no Senai
 

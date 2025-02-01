@@ -11,33 +11,9 @@
 
 <br>
 
-<table align="center">
-  <tr><td valign="top" width="35%">
-  
-  ### <div align="center"> Frontend </div>
-  
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,sass,tailwind&theme=dark&perline=6" />
-  </p>
-  
-  </td><td valign="top" width="35%">
-  
-  ### <div align="center"> Backend </div>
-  
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi&theme=dark&perline=6" />
-  </p>
-  
-  </td><td valign="top" width="30%">
-  
-  ### <div align="center"> Databases </div>
-  
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=6" />
-  </p>
-  
-  </td></tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,sass,tailwind,python,flask,django,fastapi,mysql,mongodb,sqlite&theme=dark&perline=11" />
+</p>
 
 <br>
 
@@ -48,10 +24,10 @@
 
 <div align="center">
   <a href="https://github.com/JoaoVtrMorais">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtrMorais&hide=html,css&title_color=e3e3e3&text_color=a3a3a3&icon_color=757575&bg_color=161617&border_color=242426" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtrMorais&hide=html,css&title_color=e3e3e3&text_color=a3a3a3&icon_color=757575&bg_color=242938&border_color=2f364a" />
   </a>
   
   <a href="https://github.com/JoaoVtrMorais">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=JoaoVtrMorais&show_icons=true&line_height=27&count_private=true&title_color=e3e3e3&text_color=a3a3a3&icon_color=616060&bg_color=161617&border_color=242426" alt="João's GitHub Stats" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=JoaoVtrMorais&show_icons=true&line_height=27&count_private=true&title_color=e3e3e3&text_color=a3a3a3&icon_color=616060&bg_color=242938&border_color=2f364a" alt="João's GitHub Stats" />
   </a>
 </div>

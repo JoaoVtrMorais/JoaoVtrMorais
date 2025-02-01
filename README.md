@@ -15,8 +15,6 @@
   <img src="https://skillicons.dev/icons?i=ts,react,sass,tailwind,python,flask,django,fastapi,mysql,mongodb,sqlite&theme=dark&perline=11" />
 </p>
 
-<br>
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 

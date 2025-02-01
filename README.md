@@ -1,4 +1,4 @@
-<h1>Hi there! 👋</h1>
+![João's GitHub Banner](./banner.png)
 
 - 💻 Full Stack Developer
 

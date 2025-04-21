@@ -1,8 +1,3 @@
-![João's GitHub Banner](./banner.png)
-
-- 💻 Full Stack Developer
-
-
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/joao-vitor-s-d-morais/)

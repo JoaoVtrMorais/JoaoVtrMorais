@@ -1,4 +1,5 @@
-<h1 align="left">Hello, I'm João Morais 🖖</h1>
+
+<h1 align="center">Hello, I'm João Morais 🖖</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat)](https://www.linkedin.com/in/joao-vitor-s-d-morais/)
 

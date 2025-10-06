@@ -7,8 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Associate Degree in Systems Analysis and Development  
-- 📊 Transitioning into the field of **Data & Artificial Intelligence**  
+- 🎓 Associate Degree in Systems Analysis and Development    
 - 🚀 Passionate about building real-world solutions with scalable tech  
 
 

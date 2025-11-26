@@ -24,9 +24,13 @@
 
 ## 📊 GitHub Stats 
 
-<div align="center"> 
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVtrMorais&show_icons=true&hide_border=true&bg_color=00000000&title_color=f4cf8b&icon_color=f4cf8b&text_color=ffffff" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtrMorais&layout=compact&hide_border=true&bg_color=00000000&title_color=f4cf8b&icon_color=f4cf8b&text_color=ffffff" /> 
+  <!-- Estatísticas gerais -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoVtrMorais&theme=github_dark" />
+
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoVtrMorais&theme=github_dark" />
 
 </div>
+

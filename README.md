@@ -21,3 +21,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats 
+
+<div align="center"> 
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVtrMorais&show_icons=true&hide_border=true&bg_color=00000000&title_color=f4cf8b&icon_color=f4cf8b&text_color=ffffff" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVtrMorais&layout=compact&hide_border=true&bg_color=00000000&title_color=f4cf8b&icon_color=f4cf8b&text_color=ffffff" /> 
+
+</div>
